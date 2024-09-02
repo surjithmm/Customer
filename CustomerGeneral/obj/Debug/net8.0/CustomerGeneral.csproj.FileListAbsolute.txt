@@ -1,0 +1,12 @@
+E:\MachineTest\Customer\CustomerGeneral\bin\Debug\net8.0\CustomerGeneral.deps.json
+E:\MachineTest\Customer\CustomerGeneral\bin\Debug\net8.0\CustomerGeneral.dll
+E:\MachineTest\Customer\CustomerGeneral\bin\Debug\net8.0\CustomerGeneral.pdb
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.csproj.AssemblyReference.cache
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.GeneratedMSBuildEditorConfig.editorconfig
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.AssemblyInfoInputs.cache
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.AssemblyInfo.cs
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.csproj.CoreCompileInputs.cache
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.dll
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\refint\CustomerGeneral.dll
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\CustomerGeneral.pdb
+E:\MachineTest\Customer\CustomerGeneral\obj\Debug\net8.0\ref\CustomerGeneral.dll

@@ -1,0 +1,54 @@
+Dependecny Injection
+
+1.Intial steps
+
+	1.mkdir MySolution
+	2.cd MySolution
+	3.dotnet new sln
+
+2.Create Projects
+
+	1.Create Web API
+
+		1.dotnet new webapi -n MyWebApi
+		2.dotnet sln add MyWebApi/MyWebApi.csproj
+
+	2.Create the Service and ServiceContract projects
+
+		1*dotnet new classlib -n MyServiceContract
+		 *dotnet sln add MyServiceContract/MyServiceContract.csproj
+
+		2*dotnet new classlib -n MyService
+		 *dotnet sln add MyService/MyService.csproj
+
+	3.Create the Repository and RepositoryContract projects
+
+		1*dotnet new classlib -n MyRepositoryContract
+		 *dotnet sln add MyRepositoryContract/MyRepositoryContract.csproj
+
+		2*dotnet new classlib -n MyRepository
+                 *dotnet sln add MyRepository/MyRepository.csproj
+
+3.Add Project References
+
+	1.Add References to Service and Repository Projects
+
+		*In MyService project, add a reference to MyServiceContract:
+
+			dotnet add MyService/MyService.csproj reference MyServiceContract/MyServiceContract.csproj
+		
+		*In MyRepository project, add a reference to MyRepositoryContract:
+			
+			dotnet add MyRepository/MyRepository.csproj reference MyRepositoryContract/MyRepositoryContract.csproj
+
+		*In MyWebApi project, add references to MyService and MyRepository:
+			
+			1*dotnet add MyWebApi/MyWebApi.csproj reference MyService/MyService.csproj
+			 *dotnet add MyWebApi/MyWebApi.csproj reference MyRepository/MyRepository.csproj
+
+
+			
+
+
+
+

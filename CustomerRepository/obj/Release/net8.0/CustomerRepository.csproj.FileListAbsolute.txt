@@ -1,0 +1,15 @@
+E:\MachineTest\Customer\CustomerRepository\bin\Release\net8.0\CustomerRepository.deps.json
+E:\MachineTest\Customer\CustomerRepository\bin\Release\net8.0\CustomerRepository.dll
+E:\MachineTest\Customer\CustomerRepository\bin\Release\net8.0\CustomerRepository.pdb
+E:\MachineTest\Customer\CustomerRepository\bin\Release\net8.0\CustomerRepositoryContract.dll
+E:\MachineTest\Customer\CustomerRepository\bin\Release\net8.0\CustomerRepositoryContract.pdb
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.csproj.AssemblyReference.cache
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.AssemblyInfoInputs.cache
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.AssemblyInfo.cs
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.csproj.CoreCompileInputs.cache
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\Customer.260E8317.Up2Date
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.dll
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\refint\CustomerRepository.dll
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\CustomerRepository.pdb
+E:\MachineTest\Customer\CustomerRepository\obj\Release\net8.0\ref\CustomerRepository.dll

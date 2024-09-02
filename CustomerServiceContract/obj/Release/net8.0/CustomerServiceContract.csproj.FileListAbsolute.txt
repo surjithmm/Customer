@@ -1,0 +1,11 @@
+E:\MachineTest\Customer\CustomerServiceContract\bin\Release\net8.0\CustomerServiceContract.deps.json
+E:\MachineTest\Customer\CustomerServiceContract\bin\Release\net8.0\CustomerServiceContract.dll
+E:\MachineTest\Customer\CustomerServiceContract\bin\Release\net8.0\CustomerServiceContract.pdb
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\CustomerServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\CustomerServiceContract.AssemblyInfoInputs.cache
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\CustomerServiceContract.AssemblyInfo.cs
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\CustomerServiceContract.csproj.CoreCompileInputs.cache
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\CustomerServiceContract.dll
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\refint\CustomerServiceContract.dll
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\CustomerServiceContract.pdb
+E:\MachineTest\Customer\CustomerServiceContract\obj\Release\net8.0\ref\CustomerServiceContract.dll
